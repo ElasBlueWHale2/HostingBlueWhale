@@ -1,0 +1,31 @@
+<br><div class="chat__box__text-box flex items-end float-left mb-4">
+    <div class="w-10 h-10 hidden sm:block flex-none image-fit relative mr-5">
+    <img alt="CUNG CẤP BỞI NGUYỄN THÀNH - TOPCLOUDVN.NET" class="rounded-full" src="https://steamuserimages-a.akamaihd.net/ugc/929305561999670106/FF6E82614700452D6D005403BEE2DD5C12312196/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+    </div>
+    <div class="bg-slate-100 dark:bg-darkmode-400 px-4 py-3 text-white rounded-r-md rounded-t-md">
+    hdjdjcjg
+    <div class="mt-1 text-xs text-slate-500"> <b class="text-light"> TAPHAT - 03/07/2023 - 03:27:15</b> </div>
+    </div>
+    <div class="hidden sm:block dropdown ml-3 my-auto">
+    <a href="javascript:;" class="dropdown-toggle w-4 h-4 text-slate-500" aria-expanded="false" data-tw-toggle="dropdown">
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" icon-name="more-vertical" data-lucide="more-vertical" class="lucide lucide-more-vertical w-4 h-4"><circle cx="12" cy="12" r="1"></circle><circle cx="12" cy="5" r="1"></circle><circle cx="12" cy="19" r="1"></circle></svg>
+    </a>
+    </div>
+    </div>
+    
+    <div class="clear-both"></div><br><div class="chat__box__text-box flex items-end float-left mb-4">
+    <div class="w-10 h-10 hidden sm:block flex-none image-fit relative mr-5">
+    <img alt="CUNG CẤP BỞI NGUYỄN THÀNH - TOPCLOUDVN.NET" class="rounded-full" src="https://steamuserimages-a.akamaihd.net/ugc/929305561999670106/FF6E82614700452D6D005403BEE2DD5C12312196/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+    </div>
+    <div class="bg-slate-100 dark:bg-darkmode-400 px-4 py-3 text-white rounded-r-md rounded-t-md">
+    hhhhy
+    <div class="mt-1 text-xs text-slate-500"> <b class="text-light"> TAPHAT - 03/07/2023 - 03:09:30</b> </div>
+    </div>
+    <div class="hidden sm:block dropdown ml-3 my-auto">
+    <a href="javascript:;" class="dropdown-toggle w-4 h-4 text-slate-500" aria-expanded="false" data-tw-toggle="dropdown">
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" icon-name="more-vertical" data-lucide="more-vertical" class="lucide lucide-more-vertical w-4 h-4"><circle cx="12" cy="12" r="1"></circle><circle cx="12" cy="5" r="1"></circle><circle cx="12" cy="19" r="1"></circle></svg>
+    </a>
+    </div>
+    </div>
+    
+    <div class="clear-both"></div>
